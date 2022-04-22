@@ -313,7 +313,7 @@ body .main .main__container .right__side .right__side__board--view .right__board
           transform: translateY(-0.5rem);
 }
 
-body .main .main__container .right__side .right__side__board--view .right__board--view__body .row--number {
+body .main .main__container .right__side .right__side__board--view .right__board--view__body .Brow--number, body .main .main__container .right__side .right__side__board--view .right__board--view__body .row--number {
   width: 5rem;
 }
 
