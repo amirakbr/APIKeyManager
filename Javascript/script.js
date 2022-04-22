@@ -10,7 +10,7 @@ const ApiKey = $.querySelector(".Bapi--key") ;
 const ApiSecret = $.querySelector(".Bapi--secret") ; 
 const removeButton = $.querySelectorAll(".remove") ; 
 const rightSideContainer = document.querySelector(".right__side__board--view") ; 
-let rowCounter = 1 ; 
+let rowCounter = 0 ; 
 removeButton.forEach(e => {
     e.addEventListener("click" , (e) =>{
         console.log("pg9ij");
